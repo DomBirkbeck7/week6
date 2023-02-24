@@ -1,1 +1,1 @@
-print ("Team 5 members are: Dominic, Callum, Louie, Joe, Andrei, James and Charlie")
+print ("Team 5 members are: Dominic")
