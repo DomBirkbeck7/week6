@@ -1,1 +1,2 @@
-print ("Team 5 members are: Callum ")
+print ("Team 5 members are: Joe, Andrei, Callum")
+
